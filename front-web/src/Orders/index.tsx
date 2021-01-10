@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import { toast, ToastContainer } from 'react-toastify';
 import ProductsList from './ProductsList';
 import StepsHeader from './StepsHeader';
 import { OrderLocationData, Product } from './types';
