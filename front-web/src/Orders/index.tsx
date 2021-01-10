@@ -8,6 +8,7 @@ import OrderSummary from './OrderSummary';
 import Footer from '../Footer';
 import { checkIsSelected } from './helpers';
 import './styles.css'
+import { toast } from 'react-toastify';
 
 function Orders() {
     const [products, setProducts] = useState<Product[]>([]);
