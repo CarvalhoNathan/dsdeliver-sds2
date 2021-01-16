@@ -18,6 +18,14 @@
   },
   "homepage": "https://github.com/CarvalhoNathan/dsdeliver-sds2#readme",
   "dependencies": {
-    "joi": "^17.3.0"
+    "@expo-google-fonts/open-sans": "^0.1.0",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/native": "^5.9.0",
+    "@react-navigation/stack": "^5.13.0",
+    "expo-app-loading": "^1.0.1",
+    "expo-font": "^8.4.0",
+    "joi": "^17.3.0",
+    "react-native-gesture-handler": "^1.9.0",
+    "react-native-screens": "^2.16.1"
   }
 }
